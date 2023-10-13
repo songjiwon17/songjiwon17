@@ -2,7 +2,7 @@
 
 <h3>🏰 Contacts</h3>
 <p>
-  <a href="https://velog.io/@jiwon_17"><img src="https://img.shields.io/badge/Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white/></a>
+  <a href="https://velog.io/@jiwon_17"><img src="https://img.shields.io/badge/velog-11B48A?style=flat-square&logo=Vimeo&logoColor=white/></a>
   <a href="mailto:tmddnjs0633@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=black"/></a>
 </p>
 
