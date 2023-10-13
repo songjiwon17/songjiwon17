@@ -15,6 +15,9 @@
   <img src="https://img.shields.io/badge/jquery-0769AD?style=flat-square&logo=jquery&logoColor=white">
 
 </p>
+<p>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black">
+</p>
 
 <!--
 **songjiwon17/songjiwon17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
