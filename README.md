@@ -2,8 +2,8 @@
 
 <h3>🏰Contacts</h3>
 <p>
-  <a href="https://velog.io/@jiwon_17" target="_blank"><img src="https://img.shields.io/badge/velog-#20C997?style=flat-square&logo=Vimeo&logoColor=white"/></a>
-  <a href="mailto:tmddnjs0633@gmail.com" target="_blank"><img src="https://img.shields.io/badge/gmail-#EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
+  <a href="https://velog.io/@jiwon_17"><img src="https://img.shields.io/badge/Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white/></a>
+  <a href="mailto:tmddnjs0633@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white/></a>
 </p>
 
 <!--
