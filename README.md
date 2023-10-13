@@ -1,5 +1,11 @@
 ### HELLO I'm SONG 👋
 
+<h3>🏰Contacts</h3>
+<p>
+  <a href="https://velog.io/@jiwon_17" target="_blank"><img src="https://img.shields.io/badge/velog-#20C997?style=flat-square&logo=Vimeo&logoColor=white"/></a>
+  <a href="mailto:tmddnjs0633@gmail.com" target="_blank"><img src="https://img.shields.io/badge/gmail-#EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
+</p>
+
 <!--
 **songjiwon17/songjiwon17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
