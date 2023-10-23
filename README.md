@@ -1,6 +1,6 @@
-### HELLO I'm SONG 👋
-
 <div align="center">
+  ### HELLO I'm SONG 👋
+  
   <h3>💻 My PORTFOLIO</h3>
   <p>Click Here!</p>
   
@@ -8,7 +8,7 @@
   
   <a href="https://www.figma.com/file/7GuVc8BueV5VxInrViHqos/%EC%86%A1%EC%A7%80%EC%9B%90-UIUX?type=design&node-id=0%3A1&mode=design&t=fF2edyfzgulpnmzv-1" target="_blank">
     <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=Figma&logoColor=black"/>
-  </a>
+  </a></br>
   <a href="http://sony.dothome.co.kr/" target="_blank">SONY_PROJECT</a>
   
   <h4>FAKEME_React_PROJECT</h4>
