@@ -2,13 +2,13 @@
 
 <h3>💻 My PORTFOLIO</h3>
 <p>Click Here!</p>
-<a href="http://sony.dothome.co.kr/">SONY_PROJECT</a></br>
-<a href="http://sony.dothome.co.kr/">FAKEME_PROJECT</a>
+<a href="http://sony.dothome.co.kr/" target='_blank'>SONY_PROJECT</a></br>
+<a href="http://sony.dothome.co.kr/" target='_blank'>FAKEME_PROJECT</a>
 
 <h3>🏰 Contacts</h3>
 <p>
-  <a href="https://velog.io/@jiwon_17"><img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white"/></a>
-  <a href="mailto:tmddnjs0633@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=black"/></a>
+  <a href="https://velog.io/@jiwon_17" target='_blank'><img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white"/></a>
+  <a href="mailto:tmddnjs0633@gmail.com" target='_blank'><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=black"/></a>
 </p>
 
 <h3>✨ Tech Stack</h3>
