@@ -2,10 +2,8 @@
 
 <h3>💻 My PORTFOLIO</h3>
 <p>Click Here!</p>
-<p>
-  <a href="http://sony.dothome.co.kr/">SONY_PROJECT</a>
-  <a href="http://sony.dothome.co.kr/">FAKEME_PROJECT</a>
-</p>
+<a href="http://sony.dothome.co.kr/">SONY_PROJECT</a>
+<a href="http://sony.dothome.co.kr/">FAKEME_PROJECT</a>
 
 <h3>🏰 Contacts</h3>
 <p>
