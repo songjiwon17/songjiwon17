@@ -1,17 +1,21 @@
 ### HELLO I'm SONG 👋
 
-<h3>💻 My PORTFOLIO</h3>
-<p>Click Here!</p>
+<div align="center">
+  <h3>💻 My PORTFOLIO</h3>
+  <p>Click Here!</p>
+  
+  <h4>SONY_PROJECT</h4>
+  
+  <a href="https://www.figma.com/file/7GuVc8BueV5VxInrViHqos/%EC%86%A1%EC%A7%80%EC%9B%90-UIUX?type=design&node-id=0%3A1&mode=design&t=fF2edyfzgulpnmzv-1" target="_blank">
+    <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=Figma&logoColor=black"/>
+  </a>
+  <a href="http://sony.dothome.co.kr/" target="_blank">SONY_PROJECT</a>
+  
+  <h4>FAKEME_React_PROJECT</h4>
+  
+  <a href="http://sony.dothome.co.kr/" target="_blank">FAKEME_PROJECT</a>
+</div>
 
-<h4>SONY_PROJECT</h4>
-
-<a href="https://www.figma.com/file/7GuVc8BueV5VxInrViHqos/%EC%86%A1%EC%A7%80%EC%9B%90-UIUX?type=design&node-id=0%3A1&mode=design&t=fF2edyfzgulpnmzv-1" target="_blank">
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=Figma&logoColor=black"/>
-</a>
-<a href="http://sony.dothome.co.kr/" target="_blank">SONY</a>
-
-<h4>FAKEME_React_PROJECT</h4>
-<a href="http://sony.dothome.co.kr/" target="_blank">FAKEME_PROJECT</a>
 
 <h3>🏰 Contacts</h3>
 <p>
@@ -24,12 +28,18 @@
 <p>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white">
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white">
-  <img src="https://img.shields.io/badge/SCSS-CC6699?style=flat-square&logo=SCSS&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black">
-  <img src="https://img.shields.io/badge/jquery-0769AD?style=flat-square&logo=jquery&logoColor=white">
-
+  <img src="https://img.shields.io/badge/SCSS-CC6699?style=flat-square&logo=Sass&logoColor=white"/>
 </p>
 <p>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black">
+  <img src="https://img.shields.io/badge/jquery-0769AD?style=flat-square&logo=jquery&logoColor=white">
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black">
+</p>
+
+<h3>📘 Study</h3>
+<p>I’m currently learning ...</p>
+<p>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black">
 </p>
 
