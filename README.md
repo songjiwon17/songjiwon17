@@ -2,7 +2,7 @@
  
 <div align="center"> 
   
-  ## HELLO I'm SONG 👋
+  ## 👋 HELLO I'm SONG 👋
   
   <h3>💻 My PORTFOLIO</h3>
   <p>Click Link Here!</p></br>
@@ -10,11 +10,13 @@
   <h4>SONY_PROJECT</h4>
   
   <a href="https://www.figma.com/file/7GuVc8BueV5VxInrViHqos/%EC%86%A1%EC%A7%80%EC%9B%90-UIUX?type=design&node-id=0%3A1&mode=design&t=fF2edyfzgulpnmzv-1" target="_blank">
-    <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=Figma&logoColor=black"/>
-  </a></br>
+    <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=Figma&logoColor=black"/></a>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"></br>
   <a href="http://sony.dothome.co.kr/" target="_blank">SONY_PROJECT</a>
   
   <h4>FAKEME_React_PROJECT</h4>
+  <a href="https://www.figma.com/file/xFaUF9hwKaXevVvI3nhGxR/%EC%86%A1%EC%A7%80%EC%9B%90-FAKEME_UI%2FUX?type=design&node-id=0%3A1&mode=design&t=BiJgR1pIsvkoDMsz-1" target="_blank">
+   <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=Figma&logoColor=black"/></a>
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black"></br>
   <a href="http://sony.dothome.co.kr/" target="_blank">FAKEME_PROJECT</a>
 </div>
