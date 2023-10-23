@@ -1,5 +1,12 @@
 ### HELLO I'm SONG 👋
 
+<h3>💻 My PORTFOLIO</h3>
+<p>Click Here!</p>
+<p>
+  <a href="http://sony.dothome.co.kr/">SONY_PROJECT</a>
+  <a href="http://sony.dothome.co.kr/">FAKEME_PROJECT</a>
+</p>
+
 <h3>🏰 Contacts</h3>
 <p>
   <a href="https://velog.io/@jiwon_17"><img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white"/></a>
