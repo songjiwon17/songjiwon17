@@ -5,10 +5,10 @@
 
 <h4>SONY_PROJECT</h4>
 
-<a href="http://sony.dothome.co.kr/" target="_blank">SONY</a></br>
 <a href="https://www.figma.com/file/7GuVc8BueV5VxInrViHqos/%EC%86%A1%EC%A7%80%EC%9B%90-UIUX?type=design&node-id=0%3A1&mode=design&t=fF2edyfzgulpnmzv-1" target="_blank">
-  <img src="https://img.shields.io/badge/figma-F24E1E?style=flat-square&logo=SCSS&logoColor=black"/>
-</a></br?
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=Figma&logoColor=black"/>
+</a>
+<a href="http://sony.dothome.co.kr/" target="_blank">SONY</a>
 
 <h4>FAKEME_React_PROJECT</h4>
 <a href="http://sony.dothome.co.kr/" target="_blank">FAKEME_PROJECT</a>
