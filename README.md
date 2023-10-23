@@ -1,8 +1,11 @@
-<div align="center">
-  ### HELLO I'm SONG 👋
+ 
+ 
+<div align="center"> 
+  
+  ## HELLO I'm SONG 👋
   
   <h3>💻 My PORTFOLIO</h3>
-  <p>Click Here!</p>
+  <p>Click Link Here!</p></br>
   
   <h4>SONY_PROJECT</h4>
   
@@ -12,7 +15,7 @@
   <a href="http://sony.dothome.co.kr/" target="_blank">SONY_PROJECT</a>
   
   <h4>FAKEME_React_PROJECT</h4>
-  
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black"></br>
   <a href="http://sony.dothome.co.kr/" target="_blank">FAKEME_PROJECT</a>
 </div>
 
@@ -22,7 +25,7 @@
   <a href="https://velog.io/@jiwon_17" target="_blank"><img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white"/></a>
   <a href="mailto:tmddnjs0633@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=black"/></a>
 </p>
-
+</br>
 <h3>✨ Tech Stack</h3>
 <p>Techs that I've used at least once</p>
 <p>
@@ -35,7 +38,7 @@
   <img src="https://img.shields.io/badge/jquery-0769AD?style=flat-square&logo=jquery&logoColor=white">
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black">
 </p>
-
+</br>
 <h3>📘 Study</h3>
 <p>I’m currently learning ...</p>
 <p>
