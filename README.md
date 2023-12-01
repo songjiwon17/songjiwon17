@@ -5,7 +5,7 @@
   ## 👋 HELLO I'm SONG 👋
   
   <h3>💻 My PORTFOLIO</h3>
-  <p>Click Link Here!</p></br>
+  <p>Click PROJECT Link Here!</p></br>
   
   <h4>SONY_PROJECT</h4>
   
@@ -46,7 +46,6 @@
 <p>I’m currently learning ...</p>
 <p>
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black">
 </p>
 
 <!--
