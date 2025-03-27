@@ -19,7 +19,7 @@
   <a href="http://sony.dothome.co.kr/" target="_blank">SONY_PROJECT</a>
  
   <h4>FAKEME_React_PROJECT</h4>
-  <a href="https://www.figma.com/file/xFaUF9hwKaXevVvI3nhGxR/%EC%86%A1%EC%A7%80%EC%9B%90-FAKEME_UI%2FUX?type=design&node-id=0%3A1&mode=design&t=BiJgR1pIsvkoDMsz-1" target="_blank">
+  <a href="https://www.figma.com/file/xFaUF9hwKaXevVvI3nhGxR/%EC%86%A1%EC%A7%80%EC%9B%90-FAKEME_UI%2FUX?type=design&node-id=0%3A1&mode=design&t=BiJgR1pIsvkoDMsz-1" target="_blank"         onclick="window.open(this.href, '_blank'); return false;">
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=Figma&logoColor=black"/></a>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black">
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black">
