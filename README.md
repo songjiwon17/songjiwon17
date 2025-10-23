@@ -31,8 +31,9 @@
 
 <h3>🏰 Contacts</h3>
 <p>
-  <a href="https://velog.io/@jiwon_17" target="_blank"><img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white"/></a>
   <a href="mailto:tmddnjs0633@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=black"/></a>
+  <a href="https://velog.io/@jiwon_17" target="_blank"><img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white"/></a>
+  <a href="https://www.notion.so/4e6bf3ff98814ac6b32fdbd5f2a7e593" target="_blank"><img src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white"/></a>
 </p>
 </br>
 <h3>✨ Tech Stack</h3>
