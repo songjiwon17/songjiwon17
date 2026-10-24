@@ -2,19 +2,6 @@
   
   ## 👋 HELLO I'm SONG 👋
   
-  <h3>💻 My PORTFOLIO</h3>
-  <p>Click PROJECT Link Here!</p></br>
-  <h4>SONY_PROJECT</h4>
-  <a href="http://sony.dothome.co.kr/" target="_blank" onclick="window.open(this.href, '_blank'); return false;" 
-   style="text-decoration: none; color: inherit;">
-   🎧
- </a>
-
-  <h4>FAKEME_React_PROJECT</h4>
-  <a href="" target="_blank" onclick="window.open(this.href, '_blank'); return false;" 
-   style="text-decoration: none; color: inherit;">
-   🕶
-</a>
 </div>
 
 <h3>🏰 Contacts</h3>
